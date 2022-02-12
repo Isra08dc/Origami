@@ -1,0 +1,30 @@
+h1{
+
+    color:black;
+}
+*{
+    border:solid;
+}
+.header{
+    background-color: rgb(182, 182, 182);
+    display: flex;
+    justify-content: space-around;
+}
+.grid{
+    display: flex;
+   justify-content: center;
+    flex-wrap: wrap;
+}
+.end{
+    display: flex;
+    justify-content: end;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color:#ffffff
+}
+.waf{
+background-color: rgb(109, 31, 182);
+}
